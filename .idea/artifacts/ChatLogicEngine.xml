@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="ChatLogicEngine">
     <output-path>$PROJECT_DIR$/out/artifacts/ChatLogicEngine</output-path>
     <root id="archive" name="ChatLogicEngine.jar">
-      <element id="module-output" name="ChatLogicEngine" />
+      <element id="module-output" name="MAGitLogicEngine" />
     </root>
   </artifact>
 </component>
